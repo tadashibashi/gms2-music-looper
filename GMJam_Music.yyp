@@ -1,0 +1,325 @@
+{
+    "id": "2aedd44f-151d-4c7e-bb34-eb372a233a84",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "757c7b3e-f338-4e8d-86b0-7cd6960f6efb",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "88a50990-2e85-4cf1-869f-7fa91cb46088",
+                    "resourcePath": "options\/main\/options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "00f380ed-e2bb-4eba-8df5-e5c84800a6a0",
+            "Value": {
+                "id": "63ab901d-4f81-4661-89b1-8edadc826243",
+                "resourcePath": "views\/00f380ed-e2bb-4eba-8df5-e5c84800a6a0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0f34825c-8262-49cd-a8d0-e14461f66112",
+            "Value": {
+                "id": "e6c41b10-ba42-447f-96d5-40894fb02d3e",
+                "resourcePath": "scripts\/aaron_music_debug_init\/aaron_music_debug_init.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "27dc82d1-da04-470c-81fb-e9a838c9d8df",
+            "Value": {
+                "id": "ce225081-6236-4304-903c-46580abb1aac",
+                "resourcePath": "fonts\/f_default\/f_default.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "2eb7c943-86bf-4d3a-837a-734a302e0ba4",
+            "Value": {
+                "id": "e35e43f1-9c24-446e-8762-292470b8cdc9",
+                "resourcePath": "views\/2eb7c943-86bf-4d3a-837a-734a302e0ba4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3524c6cb-4807-4ec4-9758-f0928c601b73",
+            "Value": {
+                "id": "340dee86-6776-4235-8bea-47d1196b228a",
+                "resourcePath": "views\/3524c6cb-4807-4ec4-9758-f0928c601b73.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3eea0172-533f-4a59-9854-a362745820d1",
+            "Value": {
+                "id": "d2165f1c-ba3c-42bf-b220-104f80b2c416",
+                "resourcePath": "views\/3eea0172-533f-4a59-9854-a362745820d1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "426b50d5-9230-4334-81db-f8fdf900f955",
+            "Value": {
+                "id": "f9e35ec6-52cf-45df-83b3-8ff75711be3e",
+                "resourcePath": "views\/426b50d5-9230-4334-81db-f8fdf900f955.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "53a6fc12-1aef-4d63-9146-666dd8ab04ea",
+            "Value": {
+                "id": "fa5a185b-21d7-4ccc-a3ce-85488a80196e",
+                "resourcePath": "objects\/o_aaron_music_manager\/o_aaron_music_manager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "55e4ba9d-2c37-49fc-bcd3-d9cb3a858b7f",
+            "Value": {
+                "id": "289764cc-2b5d-4348-83b3-81f63e51aa21",
+                "resourcePath": "views\/55e4ba9d-2c37-49fc-bcd3-d9cb3a858b7f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "56c7ea20-8763-41e8-b6b3-f43923f74026",
+            "Value": {
+                "id": "d34cd5d5-0c77-4541-b104-fc8d9be0ab0a",
+                "resourcePath": "views\/56c7ea20-8763-41e8-b6b3-f43923f74026.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "64d8d455-c541-444d-8e24-99a2c450218a",
+            "Value": {
+                "id": "0a1eeae7-134d-41e4-a909-d089740577ba",
+                "resourcePath": "scripts\/aaron_music_init\/aaron_music_init.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "71100ffb-a39c-45fb-be61-91ce2fd508d2",
+            "Value": {
+                "id": "30f35bbb-3ad2-4b78-b865-55334914520d",
+                "resourcePath": "views\/71100ffb-a39c-45fb-be61-91ce2fd508d2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "720076ac-2233-44f2-aeab-8cd9fdc4040f",
+            "Value": {
+                "id": "e4733acb-7dcd-4400-97c3-026adbfe067f",
+                "resourcePath": "views\/720076ac-2233-44f2-aeab-8cd9fdc4040f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "728c462f-51a4-4532-ab8f-fd226953c8e3",
+            "Value": {
+                "id": "51095713-50ee-4ce5-b658-1d2b9943ee77",
+                "resourcePath": "scripts\/aaron_music_debug_draw\/aaron_music_debug_draw.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "da0676b5-51e9-4ce7-9640-fd207ec0c93e",
+                "resourcePath": "options\/html5\/options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "7d926906-1d92-46d8-8be4-586353294c4e",
+            "Value": {
+                "id": "c778805b-33f2-4a28-b132-7cbfd5f5a898",
+                "resourcePath": "views\/7d926906-1d92-46d8-8be4-586353294c4e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "876a0f46-b51c-4509-855f-a969b8a49bd2",
+            "Value": {
+                "id": "bc032695-23d7-4a0e-8069-f1dc7191542d",
+                "resourcePath": "scripts\\aaron_music_set_gain\\aaron_music_set_gain.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "891507c7-1580-4709-84f5-1a0255d8ddb7",
+            "Value": {
+                "id": "0318c4b2-5a08-4e39-b480-9fee7c2a8fab",
+                "resourcePath": "sounds\/a_pirate_theme_loop\/a_pirate_theme_loop.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "9975039f-0c39-4fdf-aef3-0f7438dbb7cc",
+            "Value": {
+                "id": "25f9c1ad-9491-4ec8-a01d-a0047cdc8d1c",
+                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a438e477-2097-4a05-9f80-d3d6f3174637",
+            "Value": {
+                "id": "7e58d4cc-e38f-41bc-932e-01b71299f171",
+                "resourcePath": "scripts\/aaron_music_looping\/aaron_music_looping.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "2d245cfb-09ec-44d6-a808-1ca73e17cbf0",
+                "resourcePath": "options\/linux\/options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b7aba8d0-ad6f-475b-a889-672e3b47555c",
+            "Value": {
+                "id": "7ec4629a-5cb2-41bd-8585-1da09e5b893e",
+                "resourcePath": "views\/b7aba8d0-ad6f-475b-a889-672e3b47555c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "beaccff6-5e8d-4e26-8989-186dfe8eb90e",
+            "Value": {
+                "id": "51f681fa-f87b-41d3-bd7c-448a9d446047",
+                "resourcePath": "views\/beaccff6-5e8d-4e26-8989-186dfe8eb90e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c0a4b16e-7452-49cd-8909-d09041c39d4f",
+            "Value": {
+                "id": "e97cbfc0-7dfd-4a20-acd4-a001876e15f8",
+                "resourcePath": "views\/c0a4b16e-7452-49cd-8909-d09041c39d4f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c7a3e3a1-8ae6-4746-9f7d-cac33c7c0ca1",
+            "Value": {
+                "id": "3683ad36-e872-420f-a69f-8b22dc5bab4d",
+                "resourcePath": "views\/c7a3e3a1-8ae6-4746-9f7d-cac33c7c0ca1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "c26d1715-4882-42ca-8429-5af902da3149",
+                "resourcePath": "options\/windows\/options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "db130083-ea84-4591-aaaf-13b14cd5a453",
+            "Value": {
+                "id": "51a63a4d-0ff8-4577-8238-b86d19886f4a",
+                "resourcePath": "sprites\/s_music_note\/s_music_note.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dc827481-dda1-44db-b3d1-4cce12104fdf",
+            "Value": {
+                "id": "26cadae0-c25a-4f58-8928-56504c7c232b",
+                "resourcePath": "scripts\/aaron_music_destroy\/aaron_music_destroy.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f1a66b4a-31cc-4698-a007-4edb8d78d461",
+            "Value": {
+                "id": "2da20b3d-79fe-4052-8f0f-b6a9f5e224f0",
+                "resourcePath": "scripts\/aaron_music_fade_out\/aaron_music_fade_out.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "b86565d6-4015-4717-817b-74f6f8b3aa60",
+                "resourcePath": "options\/mac\/options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f9726df5-c866-471c-b56f-5cdcd763cf99",
+            "Value": {
+                "id": "9c0b2a23-90b2-47cf-89bf-293cda09d0e6",
+                "resourcePath": "views\/f9726df5-c866-471c-b56f-5cdcd763cf99.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "faa749f4-723e-483e-9d00-e60577930612",
+            "Value": {
+                "id": "9a5018e3-66c0-4bae-8243-b21da9e158dc",
+                "resourcePath": "scripts\/aaron_music_loop_start\/aaron_music_loop_start.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "fadda0e8-fb06-49b0-9d7e-bec0ed476dad",
+            "Value": {
+                "id": "a25df07f-3b28-4d70-adfd-ca1914baaec2",
+                "resourcePath": "views\/fadda0e8-fb06-49b0-9d7e-bec0ed476dad.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fc2381ec-6684-4b54-a3e6-8f5c198ac70e",
+            "Value": {
+                "id": "94512192-8f34-4ff8-a136-0e4109da5f46",
+                "resourcePath": "sounds\/a_pirate_theme_intro\/a_pirate_theme_intro.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ff1af66f-7105-4494-8e54-259fc769fbe9",
+            "Value": {
+                "id": "e903f703-63cd-4a04-85fc-49f58e23110d",
+                "resourcePath": "views\/ff1af66f-7105-4494-8e54-259fc769fbe9.yy",
+                "resourceType": "GMFolder"
+            }
+        }
+    ],
+    "script_order": [
+        "a438e477-2097-4a05-9f80-d3d6f3174637",
+        "faa749f4-723e-483e-9d00-e60577930612",
+        "f1a66b4a-31cc-4698-a007-4edb8d78d461",
+        "64d8d455-c541-444d-8e24-99a2c450218a",
+        "dc827481-dda1-44db-b3d1-4cce12104fdf",
+        "728c462f-51a4-4532-ab8f-fd226953c8e3",
+        "0f34825c-8262-49cd-a8d0-e14461f66112",
+        "876a0f46-b51c-4509-855f-a969b8a49bd2"
+    ],
+    "tutorial": ""
+}
